@@ -1,0 +1,6 @@
+
+> wechaty-getting-started@0.1.0 postinstall C:\Users\Administrator\Desktop\WeChatRobot\wechaty-getting-started
+> check-node-version --node ">= 10"
+
+node: 8.12.0
+To install node, run `nvm install >= 10` or see https://nodejs.org/
